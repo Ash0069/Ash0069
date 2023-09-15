@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **app development using flutter**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **nishantagrawal2003@gmail.com**
 
