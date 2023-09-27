@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ash0069" alt="ash0069" /></a> </p>
 
-- 🌱 I’m currently learning **app development using flutter**
+- 🌱 I’m currently learning **django framework by python**
 
 - 💬 Ask me about **Flutter**
 
