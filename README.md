@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ash0069" alt="ash0069" /></a> </p>
 
-- 🌱 I’m currently learning **app development using flutter**
+- 🌱 I’m currently learning **Software Developement**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Django**
 
 - 📫 How to reach me **nishantagrawal2003@gmail.com**
 
